@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int Suorakulma()
+int main()
 {
     int x, y;
     int sum;
@@ -20,3 +20,4 @@ int Suorakulma()
 
     return 0;
 }
+
