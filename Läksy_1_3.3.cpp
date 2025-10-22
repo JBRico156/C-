@@ -1,8 +1,8 @@
-//Kirjoita ohjelma, joka kysyy k‰ytt‰j‰n biologisen sukupuolen ja hemoglobiiniarvon(g / l).
+//Kirjoita ohjelma, joka kysyy k√§ytt√§j√§n biologisen sukupuolen ja hemoglobiiniarvon(g / l).
 //Ohjelma ilmoittaa, onko hemoglobiiniarvo alhainen, normaali vai korkea.
 
-//Naisen normaali hemoglobiiniarvo on v‰lill‰ 117 - 175 g / l.
-//Miehen normaali hemoglobiiniarvo on v‰lill‰ 134 - 195 g / l.
+//Naisen normaali hemoglobiiniarvo on v√§lill√§ 117 - 175 g / l.
+//Miehen normaali hemoglobiiniarvo on v√§lill√§ 134 - 195 g / l.
 
 #include <iostream>
 #include <string>
