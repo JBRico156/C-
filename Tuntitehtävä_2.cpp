@@ -1,5 +1,5 @@
 //Luo liukulukumuuttuja (double) ja osoitin siihen. Muuta muuttujan arvoa osoittimen avulla ja tulosta
-//muuttujan arvo ennen ja j‰lkeen muutoksen.
+//muuttujan arvo ennen ja j√§lkeen muutoksen.
 
 #include <iostream>
 #include <string>
