@@ -1,5 +1,5 @@
 //Kirjoita funktio, joka ottaa parametrinaan osoittimen kokonaislukuun ja moninkertaistaa arvon
-//kahdella.Kirjoita testip‰‰ohjelma.
+//kahdella.Kirjoita testip√§√§ohjelma.
 
 #include <iostream>
 #include <string>
@@ -13,5 +13,6 @@ int main()
 {
 	int luku = 2;
 	Tuplaaja(&luku);
-	cout << x << "\n";
+	cout << luku << "\n";
 }
+
