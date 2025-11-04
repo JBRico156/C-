@@ -1,5 +1,5 @@
 //Luo kokonaisluku (int) -muuttuja ja osoitin, joka osoittaa kyseiseen muuttujaan. Tulosta muuttujan arvo
-//sek‰ suoraan ett‰ osoittimen avulla.
+//sek√§ suoraan ett√§ osoittimen avulla.
 
 #include <iostream>
 #include <string>
