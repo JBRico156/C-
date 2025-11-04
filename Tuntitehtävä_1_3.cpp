@@ -1,4 +1,4 @@
-//M‰‰rittele taulukko, jossa on viisi kokonaislukua. K‰yt‰ osoitinaritmetiikkaa (eli osoittimia ja ++
+//M√§√§rittele taulukko, jossa on viisi kokonaislukua. K√§yt√§ osoitinaritmetiikkaa (eli osoittimia ja ++
 //operaattoria), jotta voit tulostaa jokaisen taulukon alkion arvon.
 
 #include <iostream>
