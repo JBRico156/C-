@@ -7,11 +7,11 @@ int main()
 
 	if (p == nullptr) 
 	{
-		cout << "Älä käytä tätä!\n";
+		cout << "Ã„lÃ¤ kÃ¤ytÃ¤ tÃ¤tÃ¤!\n";
 	}
 	else
 	{
-		cout << "Tätä voi käyttää.\n";
+		cout << "TÃ¤tÃ¤ voi kÃ¤yttÃ¤Ã¤.\n";
 	}
 	return 0;
 }
