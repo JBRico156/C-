@@ -1,5 +1,5 @@
-//Laadi Elain - luokka, joka on yliluokka ja jolle Kissa sek‰ Koira ovat siit‰ perittyj‰ aliluokkia.
-//Kirjoita luokikien konstruktoreihin tulostuslauseet.Luo p‰‰ohjelmassa Elain, Kissa ja Koira.
+//Laadi Elain - luokka, joka on yliluokka ja jolle Kissa sek√§ Koira ovat siit√§ perittyj√§ aliluokkia.
+//Kirjoita luokikien konstruktoreihin tulostuslauseet.Luo p√§√§ohjelmassa Elain, Kissa ja Koira.
 
 #include <iostream>
 #include <string>
@@ -22,7 +22,6 @@ public:
     virtual ~Elain() = default;
 };
 
-// Aliluokka: Koira
 class Koira : public Elain {
 private:
     long long _omistajan_puhelinnumero;
@@ -71,8 +70,8 @@ public:
 
 int main()
 {
-    std::cout << "### El‰imen tiedot ###\n";
-    Elain NimetonElain("Nimetˆn El‰in");
+    std::cout << "### El√§imen tiedot ###\n";
+    Elain NimetonElain("Nimet√∂n El√§in");
 
     std::cout << "\n";
     std::cout << "\n### ### ###\n";
